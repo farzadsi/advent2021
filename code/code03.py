@@ -1,7 +1,4 @@
 import os
-import re
-
-import numpy as np
 
 cdir = os.path.dirname(__file__)
 os.chdir(cdir)
